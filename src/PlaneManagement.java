@@ -10,6 +10,7 @@ public class PlaneManagement {
 
         char[][] seats = new char[4][];
 
+
         seats[0] = new char[14];
         seats[1] = new char[12];
         seats[2] = new char[12];
